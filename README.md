@@ -11,7 +11,7 @@ A mac address changer script in python
   python mac_changer.py -i eth0 -m 00:11:22:33:44:55
 
 # Options:
-  -h, --help            show this help message and exit
+  -h, --help            show this help message and exit 
   -i INTERFACE, --interface=INTERFACE
                         Interface to change it's MAC address
   -m NEW_MAC, --mac=NEW_MAC
